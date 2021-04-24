@@ -7,8 +7,7 @@
 <dependency>
     <groupId>cn.hutool</groupId>
     <artifactId>hutool-all</artifactId>
-    <version>5.6.3</version>
-    <!--5.x 版本支持 JDK8+ （JDK7以下使用 4.6.8）-->
+    <version>5.6.3</version> <!--5.x 版本支持 JDK8+   (JDK7以下使用 4.6.8)-->
 </dependency>
 ```
 
